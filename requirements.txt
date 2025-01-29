@@ -1,0 +1,4 @@
+streamlit
+streamlit-chat
+sqlite3
+bcrypt
